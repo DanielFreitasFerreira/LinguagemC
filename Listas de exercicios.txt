@@ -1,0 +1,3 @@
+Exercicios de Lógica
+
+1) Elabore um programa que leia nome. idade e altura de uma pessoa e exiba na tela o nome, idade, altura e ano de nascimento.
